@@ -31,7 +31,7 @@ const NewRfdButton = () => {
           <p>
             There is a prototype script in the rfd{' '}
             <a
-              href="https://github.com/oxidecomputer/rfd"
+              href="https://github.com/sensoriumtl/rfd"
               className="text-accent-tertiary hover:text-accent-secondary"
             >
               repository

@@ -234,7 +234,7 @@ const DialogContent = ({
           </DialogDismiss>
         </div>
         <a
-          href={`https://github.com/oxidecomputer/rfd/pull/${pullNumber}`}
+          href={`https://github.com/sensoriumtl/rfd/pull/${pullNumber}`}
           target="_blank"
           rel="noreferrer"
         >
@@ -301,7 +301,7 @@ const DiscussionReviewGroup = ({
                 This discussion has no reviews or comments
               </p>
               <a
-                href={`https://github.com/oxidecomputer/rfd/pull/${pullNumber}`}
+                href={`https://github.com/sensoriumtl/rfd/pull/${pullNumber}`}
                 className="mt-6 inline-block rounded border px-2 py-1 text-mono-xs text-tertiary border-default hover:bg-secondary"
                 target="_blank"
                 rel="noreferrer"
